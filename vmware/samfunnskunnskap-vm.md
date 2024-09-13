@@ -1,0 +1,2 @@
+# Samfunnskunnskap VM
+
