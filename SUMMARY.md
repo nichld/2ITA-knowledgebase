@@ -1,6 +1,6 @@
 # Table of contents
 
-* [2ITA Knowledgebase](README.md)
+* [Velkommen!](README.md)
 
 ## VMWare
 
