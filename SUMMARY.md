@@ -11,6 +11,7 @@
 
 ## Linux sysadmin
 
+* [Oppsett av Ubuntu](linux-sysadmin/oppsett-av-ubuntu.md)
 * [Users and groups](linux-sysadmin/users-and-groups.md)
 
 ## nettverk

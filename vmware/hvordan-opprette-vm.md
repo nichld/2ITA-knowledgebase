@@ -1,6 +1,6 @@
 ---
-description: Denne siden forklarer hvordan man oppretter en VM på vcenter
 icon: hard-drive
+description: Denne siden forklarer hvordan man oppretter en VM på vcenter
 ---
 
 # Hvordan opprette VM
@@ -19,6 +19,8 @@ Gå så til din elev pool og right-click den. Etter dette trykker du "New viritu
 
 {% tabs %}
 {% tab title="Creation type" %}
+Trykk på "Create a new viritual machine" og så gå til neste side
+
 <figure><img src="../.gitbook/assets/nummer 1.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
@@ -42,3 +44,15 @@ Gå så til din elev pool og right-click den. Etter dette trykker du "New viritu
 <figure><img src="../.gitbook/assets/nummer 6.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
+
+{% hint style="success" %}
+Grattulerer, du har nå opprettet en virituel maskin!
+{% endhint %}
+
+### Veien videre...
+
+Du har nå opprettet maskinen, la oss sette den opp!
+
+{% content-ref url="../linux-sysadmin/oppsett-av-ubuntu.md" %}
+[oppsett-av-ubuntu.md](../linux-sysadmin/oppsett-av-ubuntu.md)
+{% endcontent-ref %}
