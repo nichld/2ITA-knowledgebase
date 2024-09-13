@@ -2,15 +2,9 @@
 
 ## Velkommen til VCENTER
 
+<figure><img src="../.gitbook/assets/638shots_so.png" alt=""><figcaption><p>Dette er dashboardet til VCENTER</p></figcaption></figure>
+
 Dette er dashboardet til vcenter.
-
-
-
-
-
-{% content-ref url="https://app.gitbook.com/o/qqGWlxydSNK71Norlnky/snippet/22368" %}
-[Cloning the project](https://app.gitbook.com/o/qqGWlxydSNK71Norlnky/snippet/22368)
-{% endcontent-ref %}
 
 
 
