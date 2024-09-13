@@ -6,7 +6,7 @@
 
 * [Ressurser](vmware/ressurser.md)
 * [Hvordan opprette VM](vmware/hvordan-opprette-vm.md)
-* [Opprette VM etter template](vmware/opprette-vm-etter-template.md)
+* [Opprett VM fra template](vmware/opprett-vm-fra-template.md)
 * [Samfunnskunnskap VM](vmware/samfunnskunnskap-vm.md)
 
 ## Linux sysadmin

@@ -1,2 +1,0 @@
-# Opprette VM etter template
-
